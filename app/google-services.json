@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "364376410294",
+    "firebase_url": "https://fir-chat-6c7b5.firebaseio.com",
+    "project_id": "fir-chat-6c7b5",
+    "storage_bucket": "fir-chat-6c7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364376410294:android:3f035fd28e930990",
+        "android_client_info": {
+          "package_name": "com.example.david.twistthemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364376410294-ujgg3p2pem9jgm3vvplcsbqkq4iiu4q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.david.twistthemobile",
+            "certificate_hash": "D297ECD5B52371EEDDEE9AB01F3068F977D2D9AA"
+          }
+        },
+        {
+          "client_id": "364376410294-99mpbqebi6vdkcfdcr254o65rjgj667f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0nS5i98QPGjO2bUBeFn6jxyS0sL1vnKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364376410294-99mpbqebi6vdkcfdcr254o65rjgj667f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

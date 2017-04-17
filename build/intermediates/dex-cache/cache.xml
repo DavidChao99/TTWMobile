@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54ac6dc267508509c398c0521fe735b31717797c">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_15afe2779169f6afb36ff1824a468d8198aaef6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\7edd6ab6b8cf4899e8ae349a099b78e9f3a36351\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dda42a3fb3ba288de87abd72328d83c014e7f5b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\2f29dcc7489b4e59d300123a39a61011157825ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c062bac1cdef69eed06720ebb08e8e2e0b7de25a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\ab8c10f2166288a6f0e19227d9e5ca7a733e9bf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5de2ce309459141a749557a749413e2afc894474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\def7a7630f8dc601937864c6f59ffda4bb3b1126\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d34a0c0b0d4477a88ed986d6f1029e1fdce087c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\36100a1e1bfbc87df80a303d4f4983f44c84b9c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae7c6fa61e7b33954291b8b719e6b80763207c87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\d8ab06157566ad041d80b32d59e7be90698337af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4722cef343a21fbd24a18541350f84c1e6356a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\7df408a6fec22c3867d153eb2f4a8d62ebb72aa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c27d21f4b64048cddf21f1f121204a4d04524b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\b223b340bf0a0ca27efad5bf5ab99cf4f4cd7065\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af1abb08c60bb7956e9b2de57dbb34f9bafdefaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\cc3a14398379c6f3cdb30f3d20523808e6fbbb9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_012852aa0fe96639dc2ef92e4bddda0e34189823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\6d95501068c1d6bf9849b1f174e3040de6b7a7c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1146d3a0e1a3b38acbfdc09b78b20da5cd3ce10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\6384358da138e3edb272ad23bd787eb7070fbdf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afd4463ba01345574306a55fabb237779cbdf776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e022874cfdaf3d9f8cb4dda91b7967edb481215c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\a9095d0aed763ab7b673bb9c5154a8fda80e176c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aef99f6a2e6e3fedac2affa7313d7aba1f7afa8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_4c47674f5259253f144fb48793f21bb1ae152c19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\7c041e74f294ec2e0e690c562eed001f6e7453e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3784991e4d87a1f6a3015256a335edca2212ecf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\1fb21f552ccf875b52f12f64b963b78fc3e8129a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69a71ee60d509a2c82752be0c817314a23e45265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\d2169d68e63ffdd47485c0ec38c5d0aa79d46f29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4f29d7bc12e4b9335a54d760c8d864a37154a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\48cb1ddd421cdc2c8178593d4bee16388b6991d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_137e81bf6f5b619d4dc47d96d038b97600241e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\.android\build-cache\54c3f33f87be0c0c16e11e48b0901baa714f71a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Android\AndroidStudioProjects\TwistTheMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5b1332bc335984d7a1e816ea3059893144b2c59\classes.dex" />
+    </item>
+
+</items>
