@@ -46,13 +46,25 @@ public class TimerActivity extends AppCompatActivity {
                     break;
 
                 case MSG_UPDATE_TIMER:
-                    mTextView.setText(""+ timer.getElapsedTime());
+                    String elapsedTime = String.valueOf(timer.getElapsedTime());
+                    if(elapsedTime.length() < 3) {
+                        elapsedTime = "0:" + elapsedTime.substring(0, elapsedTime.length());
+                    } else {
+                        elapsedTime = elapsedTime.substring(0, elapsedTime.length() - 3) + ":" + elapsedTime.substring(elapsedTime.length() - 3, elapsedTime.length());
+                    }
+                    mTextView.setText(""+ elapsedTime);
                     mHandler.sendEmptyMessageDelayed(MSG_UPDATE_TIMER,REFRESH_RATE); //text view is updated every second,
                     break;                                  //though the timer is still running
                 case MSG_STOP_TIMER:
                     mHandler.removeMessages(MSG_UPDATE_TIMER); // no more updates.
                     timer.stopTimer();//stop timer
-                    mTextView.setText(""+ timer.getElapsedTime());
+                    elapsedTime = String.valueOf(timer.getElapsedTime());
+                    if(elapsedTime.length() < 3) {
+                        elapsedTime = "0:" + elapsedTime.substring(0, elapsedTime.length());
+                    } else {
+                        elapsedTime = elapsedTime.substring(0, elapsedTime.length() - 3) + ":" + elapsedTime.substring(elapsedTime.length() - 3, elapsedTime.length());
+                    }
+                    mTextView.setText(""+ elapsedTime);
                     mDatabase.child("times").child("one").child("David").setValue(timer.getElapsedTime());
                     break;
 
